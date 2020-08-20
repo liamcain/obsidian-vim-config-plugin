@@ -1,0 +1,16 @@
+{
+  "name": "vim-tweaks",
+  "version": "1.0.0",
+  "description": "Customize your vim editor settings",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "main": "./dist/index.js",
+  "dependencies": {
+    "electron": "^9.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
